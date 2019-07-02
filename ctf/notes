@@ -1,0 +1,10 @@
+## tools:
+- angr: python3
+
+## ctfs:
+
+### OOO:
+	- speedrun-001: can't find symbols
+
+### bkctf19
+	- ubuntu 18.04: check stack divisible by '0x10' => `payload = buf + p64(ret) + p64(getshell_addr)`

@@ -1,0 +1,1 @@
+superSecure.zip/flag.txt:$pkzip2$1*2*2*0*3e*32*3fd818b3*0*42*0*3e*3fd8*5455*aee12c2c45453fdf9a8f65cca44cb9809c16e070a831c024329ff1a216a24137617ddb115fef4cedb5016f9bb939c0e97fb0a102c31101169fe1aff35866*$/pkzip2$:flag.txt:superSecure.zip::./superSecure.zip

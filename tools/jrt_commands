@@ -1,0 +1,6 @@
+../../tools/JohnTheRipper/JohnTheRipper/run/zip2john starmap.zip > hash2.txt
+
+../../tools/JohnTheRipper/JohnTheRipper/run/john hash2.txt --wordlist=rockyou.txt
+	// or
+../../tools/JohnTheRipper/JohnTheRipper/run/john superSecure.zip hash.txt
+

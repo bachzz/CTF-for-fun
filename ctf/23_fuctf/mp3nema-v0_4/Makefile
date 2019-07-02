@@ -1,0 +1,18 @@
+CC = gcc
+OBJS = main.o utils.o file.o stream.o insert.o
+APP = mp3nema
+CFLAGS = -Wall -O3
+
+all: $(OBJS) $(APP)
+
+%.o : %.c
+	$(CC) -o $@ -c $< $(CFLAGS)
+
+$(APP) : $(OBJS)
+	$(CC) -o $@ $(OBJS) $(CFLAGS)
+
+clean:
+	rm -rfv $(APP) $(OBJS) *.dvi *.log *.aux *.out
+
+paper:
+	pdflatex paper.tex	

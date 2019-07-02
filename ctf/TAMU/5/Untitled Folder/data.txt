@@ -1,0 +1,207 @@
+debug006:0018FBC4 db  80h ; €
+debug006:0018FBC5 db  33h ; 3
+debug006:0018FBC6 db 0E6h ; æ
+debug006:0018FBC7 db    1
+debug006:0018FBC8 db 0A8h ; ¨
+debug006:0018FBC9 db  0Ah
+debug006:0018FBCA db 0E6h ; æ
+debug006:0018FBCB db    1
+debug006:0018FBCC db    2
+debug006:0018FBCD db    0
+debug006:0018FBCE db    0
+debug006:0018FBCF db    0
+debug006:0018FBD0 db    0
+debug006:0018FBD1 db    0
+debug006:0018FBD2 db    0
+debug006:0018FBD3 db    0
+debug006:0018FBD4 db  80h ; €
+debug006:0018FBD5 db  31h ; 1
+debug006:0018FBD6 db 0E6h ; æ
+debug006:0018FBD7 db    1
+debug006:0018FBD8 db  5Ch ; \
+debug006:0018FBD9 db  11h
+debug006:0018FBDA db    0
+debug006:0018FBDB db    0
+debug006:0018FBDC db  64h ; d
+debug006:0018FBDD db  38h ; 8
+debug006:0018FBDE db  6Ah ; j
+debug006:0018FBDF db  76h ; v
+debug006:0018FBE0 db 0E8h ; è
+debug006:0018FBE1 db 0FBh ; û
+debug006:0018FBE2 db  18h
+debug006:0018FBE3 db    0
+debug006:0018FBE4 db 0ECh ; ì
+debug006:0018FBE5 db 0FBh ; û
+debug006:0018FBE6 db  18h
+debug006:0018FBE7 db    0
+debug006:0018FBE8 db    0
+debug006:0018FBE9 db    0
+debug006:0018FBEA db    0
+debug006:0018FBEB db    0
+debug006:0018FBEC db    8
+debug006:0018FBED db 0FCh ; ü
+debug006:0018FBEE db  18h
+debug006:0018FBEF db    0
+debug006:0018FBF0 db  57h ; W
+debug006:0018FBF1 db  2Eh ; .
+debug006:0018FBF2 db  6Bh ; k
+debug006:0018FBF3 db  76h ; v
+debug006:0018FBF4 db  6Dh ; m
+debug006:0018FBF5 db  27h ; '
+debug006:0018FBF6 db    0
+debug006:0018FBF7 db    0
+debug006:0018FBF8 db  2Ah ; *
+debug006:0018FBF9 db    0
+debug006:0018FBFA db    0
+debug006:0018FBFB db    0
+debug006:0018FBFC db    4
+debug006:0018FBFD db    0
+debug006:0018FBFE db    0
+debug006:0018FBFF db    0
+debug006:0018FC00 db  51h ; Q
+debug006:0018FC01 db  6Fh ; o
+debug006:0018FC02 db  29h ; )
+debug006:0018FC03 db    0
+debug006:0018FC04 db  75h ; u
+debug006:0018FC05 db    8
+debug006:0018FC06 db  3Fh ; ?
+debug006:0018FC07 db  12h
+debug006:0018FC08 db  14h
+debug006:0018FC09 db 0FCh ; ü
+debug006:0018FC0A db  18h
+debug006:0018FC0B db    0
+debug006:0018FC0C db  14h
+debug006:0018FC0D db 0FCh ; ü
+debug006:0018FC0E db  18h
+debug006:0018FC0F db    0
+debug006:0018FC10 db  6Ah ; j
+debug006:0018FC11 db  8Ch ; Œ
+debug006:0018FC12 db  28h ; (
+debug006:0018FC13 db    0
+debug006:0018FC14 db  54h ; T
+debug006:0018FC15 db 0FCh ; ü
+debug006:0018FC16 db  18h
+debug006:0018FC17 db    0
+debug006:0018FC18 db 0C7h ; Ç
+debug006:0018FC19 db  6Eh ; n
+debug006:0018FC1A db  29h ; )
+debug006:0018FC1B db    0
+debug006:0018FC1C db  51h ; Q
+debug006:0018FC1D db  6Fh ; o
+debug006:0018FC1E db  29h ; )
+debug006:0018FC1F db    0
+debug006:0018FC20 db    4
+debug006:0018FC21 db    0
+debug006:0018FC22 db    0
+debug006:0018FC23 db    0
+debug006:0018FC24 db  2Ah ; *
+debug006:0018FC25 db    0
+debug006:0018FC26 db    0
+debug006:0018FC27 db    0
+debug006:0018FC28 db  9Dh
+debug006:0018FC29 db  0Fh
+debug006:0018FC2A db  3Fh ; ?
+debug006:0018FC2B db  12h
+debug006:0018FC2C db  2Ah ; *
+debug006:0018FC2D db    0
+debug006:0018FC2E db    0
+debug006:0018FC2F db    0
+debug006:0018FC30 db    0
+debug006:0018FC31 db    0
+debug006:0018FC32 db  41h ; A
+debug006:0018FC33 db    0
+debug006:0018FC34 db  51h ; Q
+debug006:0018FC35 db  6Fh ; o
+debug006:0018FC36 db  29h ; )
+debug006:0018FC37 db    0
+debug006:0018FC38 db    1
+debug006:0018FC39 db    0
+debug006:0018FC3A db    0
+debug006:0018FC3B db    0
+debug006:0018FC3C db  28h ; (
+debug006:0018FC3D db 0FCh ; ü
+debug006:0018FC3E db  18h
+debug006:0018FC3F db    0
+debug006:0018FC40 db  56h ; V
+debug006:0018FC41 db  18h
+debug006:0018FC42 db  41h ; A
+debug006:0018FC43 db  76h ; v
+debug006:0018FC44 db    4
+debug006:0018FC45 db 0FDh ; ý
+debug006:0018FC46 db  18h
+debug006:0018FC47 db    0
+debug006:0018FC48 db 0C0h ; À
+debug006:0018FC49 db  9Bh ; ›
+debug006:0018FC4A db  29h ; )
+debug006:0018FC4B db    0
+debug006:0018FC4C db  81h
+debug006:0018FC4D db  17h
+debug006:0018FC4E db  0Dh
+debug006:0018FC4F db  12h
+debug006:0018FC50 db    0
+debug006:0018FC51 db    0
+debug006:0018FC52 db    0
+debug006:0018FC53 db    0
+debug006:0018FC54 db  60h ; `
+debug006:0018FC55 db 0FCh ; ü
+debug006:0018FC56 db  18h
+debug006:0018FC57 db    0
+debug006:0018FC58 db  6Fh ; o
+debug006:0018FC59 db  6Fh ; o
+debug006:0018FC5A db  29h ; )
+debug006:0018FC5B db    0
+debug006:0018FC5C db  51h ; Q
+debug006:0018FC5D db  6Fh ; o
+debug006:0018FC5E db  29h ; )
+debug006:0018FC5F db    0
+debug006:0018FC60 db  70h ; p
+debug006:0018FC61 db 0FCh ; ü
+debug006:0018FC62 db  18h
+debug006:0018FC63 db    0
+debug006:0018FC64 db  20h
+debug006:0018FC65 db    0
+debug006:0018FC66 db  41h ; A
+debug006:0018FC67 db    0
+debug006:0018FC68 db  51h ; Q
+debug006:0018FC69 db  6Fh ; o
+debug006:0018FC6A db  29h ; )
+debug006:0018FC6B db    0
+debug006:0018FC6C db    4
+debug006:0018FC6D db    0
+debug006:0018FC6E db    0
+debug006:0018FC6F db    0
+debug006:0018FC70 db  2Ah ; *
+debug006:0018FC71 db    0
+debug006:0018FC72 db    0
+debug006:0018FC73 db    0
+debug006:0018FC74 db 0DAh ; Ú
+debug006:0018FC75 db  13h
+debug006:0018FC76 db  8Dh
+debug006:0018FC77 db  74h ; t
+debug006:0018FC78 db 0E2h ; â
+debug006:0018FC79 db 0D7h ; ×
+debug006:0018FC7A db    8
+debug006:0018FC7B db  26h ; &
+debug006:0018FC7C db  2Bh ; +
+debug006:0018FC7D db  49h ; I
+debug006:0018FC7E db  41h ; A
+debug006:0018FC7F db  76h ; v
+debug006:0018FC80 db    4
+debug006:0018FC81 db    1
+debug006:0018FC82 db    0
+debug006:0018FC83 db    0
+debug006:0018FC84 db    0
+debug006:0018FC85 db    0
+debug006:0018FC86 db  8Dh
+debug006:0018FC87 db  74h ; t
+debug006:0018FC88 db    0
+debug006:0018FC89 db    0
+debug006:0018FC8A db  41h ; A
+debug006:0018FC8B db    0
+debug006:0018FC8C db  44h ; D
+debug006:0018FC8D db  28h ; (
+debug006:0018FC8E db    3
+debug006:0018FC8F db    0
+debug006:0018FC90 db  20h
+debug006:0018FC91 db  64h ; d
+debug006:0018FC92 db  54h ; T

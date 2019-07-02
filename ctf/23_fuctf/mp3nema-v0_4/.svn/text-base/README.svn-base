@@ -1,0 +1,63 @@
+mp3nema
+-------
+
+MP3nema is a tool aimed at analyzing and capturing data that is hidden between
+frames in an MP3 file or stream, otherwise noted as "out of band" data.  This
+utility also supports adding data between frames, and capturing streaming
+audio.
+
+
+Building
+--------
+
+From the top-level directory of mp3nema run:
+    ./configure
+    make
+
+Debugging mode can be enabled when configuring by using the following option:
+    ./configure --enable-debug
+
+The resulting binary can be placed anywhere, as there is no "install" target in
+the makefile.
+
+
+Usage
+-----
+There are four main uses for mp3enema.
+0 - Analyzing files or streaming audio to find data hidden between audio frames.
+1 - Capturing streaming audio to a file.
+2 - Extracting out of band data to a file.
+3 - Inserting data between frames.
+
+When inserting data between frames, the destination can be a single MP3 file,
+or a directory of MP3s.  To be more covert, larger files should probably be
+spanned across multiple MP3s.  In such a case a directory of MP3 files can be
+specified.  The resulting files, with the injected data, will be numbered so
+that they can be extracted in proper order. 
+
+It is suggested that an ASCII-based encoding (e.g. uuencode) be used to encode
+the data that is to be stashed between frames.  This avoids the possibility of
+replicating an MP3 sync-frame, which would signify the potential start of audio
+data, and confuse the data-extraction process or audio-playback.  Likewise, the
+case of an ASCII character sequence of "ID3" in the data might also create
+confusion.
+
+The help menu, when running mp3nema without any arguments, designates how to
+operate in one of the aforementioned modes.
+
+The files produced are automatically named based on the source MP3 file or
+stream that is being analyzed.  In the case of duplicate file names, a
+sequential number is added to the end of the resulting file, before the
+extension.
+    
+
+Thanks
+------
+The rest of 757labs (www.757labs.com)
+GNU (www.gnu.org)
+
+
+Contact / Project URL
+-------
+mattdavis9@gmail.com
+www.757labs.com/projects/mp3nema

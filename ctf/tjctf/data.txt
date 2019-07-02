@@ -1,0 +1,1406 @@
+[+] Opening connection to p1.tjctf.org on port 8009: Done
+Encountered 'one'
+The first step: 
+one
+Encountered 'infected'
+The next step: 
+infected
+Encountered 'solubility'
+The next step: 
+solubility
+Encountered 'sitter'
+The next step: 
+sitter
+Encountered 'cant'
+The next step: 
+cant
+Encountered 'core'
+The next step: 
+core
+Encountered 'dewy'
+The next step: 
+dewy
+Encountered 'dictatorship'
+The next step: 
+dictatorship
+Encountered 'protestingly'
+The next step: 
+protestingly
+Encountered 'weaver'
+The next step: 
+weaver
+Encountered 'mentality'
+The next step: 
+mentality
+Encountered 'discriminate'
+The next step: 
+discriminate
+Encountered 'expected'
+The next step: 
+expected
+Encountered 'subprocesses'
+The next step: 
+subprocesses
+Encountered 'ozone'
+The next step: 
+ozone
+Encountered 'radios'
+The next step: 
+radios
+Encountered 'foothill'
+The next step: 
+foothill
+Encountered 'tokens'
+The next step: 
+tokens
+Encountered 'plants'
+The next step: 
+plants
+Encountered 'generalists'
+The next step: 
+generalists
+Encountered 'covariant'
+The next step: 
+covariant
+Encountered 'somatic'
+The next step: 
+somatic
+Encountered 'micros'
+The next step: 
+micros
+Encountered 'formant'
+The next step: 
+formant
+Encountered 'expansive'
+The next step: 
+expansive
+Encountered 'upsets'
+The next step: 
+upsets
+Encountered 'connected'
+The next step: 
+connected
+Encountered 'transgressions'
+The next step: 
+transgressions
+Encountered 'curly'
+The next step: 
+curly
+Encountered 'shutter'
+The next step: 
+shutter
+Encountered 'partition'
+The next step: 
+partition
+Encountered 'sacrament'
+The next step: 
+sacrament
+Encountered 'addressed'
+The next step: 
+addressed
+Encountered 'abided'
+The next step: 
+abided
+Encountered 'alleged'
+The next step: 
+alleged
+Encountered 'rocky'
+The next step: 
+rocky
+Encountered 'presumption'
+The next step: 
+presumption
+Encountered 'potentiometers'
+The next step: 
+potentiometers
+Encountered 'benches'
+The next step: 
+benches
+Encountered 'intoxicating'
+The next step: 
+intoxicating
+Encountered 'truly'
+The next step: 
+truly
+Encountered 'valleys'
+The next step: 
+valleys
+Encountered 'languish'
+The next step: 
+languish
+Encountered 'fiercer'
+The next step: 
+fiercer
+Encountered 'chastely'
+The next step: 
+chastely
+Encountered 'savagely'
+The next step: 
+savagely
+Encountered 'regenerator'
+The next step: 
+regenerator
+Encountered 'spectrophotometer'
+The next step: 
+spectrophotometer
+Encountered 'emulate'
+The next step: 
+emulate
+Encountered 'ignition'
+The next step: 
+ignition
+Encountered 'plaster'
+The next step: 
+plaster
+Encountered 'tips'
+The next step: 
+tips
+Encountered 'suit'
+The next step: 
+suit
+Encountered 'appliance'
+The next step: 
+appliance
+Encountered 'birdied'
+The next step: 
+birdied
+Encountered 'realization'
+The next step: 
+realization
+Encountered 'interrogates'
+The next step: 
+interrogates
+Encountered 'girls'
+The next step: 
+girls
+Encountered 'versatility'
+The next step: 
+versatility
+Encountered 'digitized'
+The next step: 
+digitized
+Encountered 'typically'
+The next step: 
+typically
+Encountered 'spank'
+The next step: 
+spank
+Encountered 'offerers'
+The next step: 
+offerers
+Encountered 'mace'
+The next step: 
+mace
+Encountered 'exclaiming'
+The next step: 
+exclaiming
+Encountered 'clamber'
+The next step: 
+clamber
+Encountered 'bookstores'
+The next step: 
+bookstores
+Encountered 'mathematics'
+The next step: 
+mathematics
+Encountered 'jauntiness'
+The next step: 
+jauntiness
+Encountered 'mechanics'
+The next step: 
+mechanics
+Encountered 'remodel'
+The next step: 
+remodel
+Encountered 'vanishes'
+The next step: 
+vanishes
+Encountered 'salon'
+The next step: 
+salon
+Encountered 'sequentiality'
+The next step: 
+sequentiality
+Encountered 'beaching'
+The next step: 
+beaching
+Encountered 'customize'
+The next step: 
+customize
+Encountered 'swatted'
+The next step: 
+swatted
+Encountered 'affective'
+The next step: 
+affective
+Encountered 'changeable'
+The next step: 
+changeable
+Encountered 'tickled'
+The next step: 
+tickled
+Encountered 'terminologies'
+The next step: 
+terminologies
+Encountered 'adducible'
+The next step: 
+adducible
+Encountered 'romps'
+The next step: 
+romps
+Encountered 'resisted'
+The next step: 
+resisted
+Encountered 'beautify'
+The next step: 
+beautify
+Encountered 'propositional'
+The next step: 
+propositional
+Encountered 'craftsperson'
+The next step: 
+craftsperson
+Encountered 'applications'
+The next step: 
+applications
+Encountered 'forego'
+The next step: 
+forego
+Encountered 'cynic'
+The next step: 
+cynic
+Encountered 'myriad'
+The next step: 
+myriad
+Encountered 'temples'
+The next step: 
+temples
+Encountered 'mouser'
+The next step: 
+mouser
+Encountered 'reload'
+The next step: 
+reload
+Encountered 'itemizes'
+The next step: 
+itemizes
+Encountered 'prostrate'
+The next step: 
+prostrate
+Encountered 'covertly'
+The next step: 
+covertly
+Encountered 'would'
+The next step: 
+would
+Encountered 'sonic'
+The next step: 
+sonic
+Encountered 'recipient'
+The next step: 
+recipient
+Encountered 'preys'
+The next step: 
+preys
+Encountered 'glossary'
+The next step: 
+glossary
+Encountered 'prospectus'
+The next step: 
+prospectus
+Encountered 'potters'
+The next step: 
+potters
+Encountered 'retreats'
+The next step: 
+retreats
+Encountered 'elephants'
+The next step: 
+elephants
+Encountered 'chauffeur'
+The next step: 
+chauffeur
+Encountered 'disillusionment'
+The next step: 
+disillusionment
+Encountered 'seemly'
+The next step: 
+seemly
+Encountered 'astringent'
+The next step: 
+astringent
+Encountered 'official'
+The next step: 
+official
+Encountered 'wishes'
+The next step: 
+wishes
+Encountered 'relevance'
+The next step: 
+relevance
+Encountered 'reserver'
+The next step: 
+reserver
+Encountered 'generic'
+The next step: 
+generic
+Encountered 'transcend'
+The next step: 
+transcend
+Encountered 'copywriter'
+The next step: 
+copywriter
+Encountered 'continuance'
+The next step: 
+continuance
+Encountered 'evaluator'
+The next step: 
+evaluator
+Encountered 'arming'
+The next step: 
+arming
+Encountered 'shoestring'
+The next step: 
+shoestring
+Encountered 'drownings'
+The next step: 
+drownings
+Encountered 'returned'
+The next step: 
+returned
+Encountered 'boggled'
+The next step: 
+boggled
+Encountered 'antedate'
+The next step: 
+antedate
+Encountered 'jaws'
+The next step: 
+jaws
+Encountered 'share'
+The next step: 
+share
+Encountered 'unconscionable'
+The next step: 
+unconscionable
+Encountered 'grenade'
+The next step: 
+grenade
+Encountered 'simmered'
+The next step: 
+simmered
+Encountered 'gut'
+The next step: 
+gut
+Encountered 'furnace'
+The next step: 
+furnace
+Encountered 'ticking'
+The next step: 
+ticking
+Encountered 'faintly'
+The next step: 
+faintly
+Encountered 'coating'
+The next step: 
+coating
+Encountered 'abolisher'
+The next step: 
+abolisher
+Encountered 'daisies'
+The next step: 
+daisies
+Encountered 'quietude'
+The next step: 
+quietude
+Encountered 'bossed'
+The next step: 
+bossed
+Encountered 'casserole'
+The next step: 
+casserole
+Encountered 'leakages'
+The next step: 
+leakages
+Encountered 'emperor'
+The next step: 
+emperor
+Encountered 'ameliorated'
+The next step: 
+ameliorated
+Encountered 'unharmed'
+The next step: 
+unharmed
+Encountered 'pretend'
+The next step: 
+pretend
+Encountered 'annoy'
+The next step: 
+annoy
+Encountered 'angst'
+The next step: 
+angst
+Encountered 'slicks'
+The next step: 
+slicks
+Encountered 'retransmit'
+The next step: 
+retransmit
+Encountered 'purposely'
+The next step: 
+purposely
+Encountered 'loans'
+The next step: 
+loans
+Encountered 'assists'
+The next step: 
+assists
+Encountered 'decipher'
+The next step: 
+decipher
+Encountered 'insular'
+The next step: 
+insular
+Encountered 'versed'
+The next step: 
+versed
+Encountered 'grafter'
+The next step: 
+grafter
+Encountered 'violate'
+The next step: 
+violate
+Encountered 'bluster'
+The next step: 
+bluster
+Encountered 'acrylic'
+The next step: 
+acrylic
+Encountered 'misconduct'
+The next step: 
+misconduct
+Encountered 'cytology'
+The next step: 
+cytology
+Encountered 'clashing'
+The next step: 
+clashing
+Encountered 'fiddlesticks'
+The next step: 
+fiddlesticks
+Encountered 'cocoons'
+The next step: 
+cocoons
+Encountered 'chemistries'
+The next step: 
+chemistries
+Encountered 'thereto'
+The next step: 
+thereto
+Encountered 'stand'
+The next step: 
+stand
+Encountered 'shot'
+The next step: 
+shot
+Encountered 'hesitation'
+The next step: 
+hesitation
+Encountered 'peeper'
+The next step: 
+peeper
+Encountered 'hindered'
+The next step: 
+hindered
+Encountered 'bordering'
+The next step: 
+bordering
+Encountered 'unnerved'
+The next step: 
+unnerved
+Encountered 'fledgling'
+The next step: 
+fledgling
+Encountered 'quantitatively'
+The next step: 
+quantitatively
+Encountered 'avenged'
+The next step: 
+avenged
+Encountered 'smashing'
+The next step: 
+smashing
+Encountered 'bookmark'
+The next step: 
+bookmark
+Encountered 'puppets'
+The next step: 
+puppets
+Encountered 'beauteous'
+The next step: 
+beauteous
+Encountered 'appropriator'
+The next step: 
+appropriator
+Encountered 'aggrieves'
+The next step: 
+aggrieves
+Encountered 'imprecision'
+The next step: 
+imprecision
+Encountered 'absolutely'
+The next step: 
+absolutely
+Encountered 'phosphate'
+The next step: 
+phosphate
+Encountered 'remiss'
+The next step: 
+remiss
+Encountered 'amortizing'
+The next step: 
+amortizing
+Encountered 'twitch'
+The next step: 
+twitch
+Encountered 'reemphasizes'
+The next step: 
+reemphasizes
+Encountered 'constructed'
+The next step: 
+constructed
+Encountered 'immunity'
+The next step: 
+immunity
+Encountered 'grips'
+The next step: 
+grips
+Encountered 'ice'
+The next step: 
+ice
+Encountered 'birefringence'
+The next step: 
+birefringence
+Encountered 'declares'
+The next step: 
+declares
+Encountered 'confluent'
+The next step: 
+confluent
+Encountered 'emotions'
+The next step: 
+emotions
+Encountered 'mated'
+The next step: 
+mated
+Encountered 'damsels'
+The next step: 
+damsels
+Encountered 'spanned'
+The next step: 
+spanned
+Encountered 'waxes'
+The next step: 
+waxes
+Encountered 'bone'
+The next step: 
+bone
+Encountered 'truce'
+The next step: 
+truce
+Encountered 'chopper'
+The next step: 
+chopper
+Encountered 'enrolls'
+The next step: 
+enrolls
+Encountered 'pirate'
+The next step: 
+pirate
+Encountered 'flicks'
+The next step: 
+flicks
+Encountered 'bottled'
+The next step: 
+bottled
+Encountered 'incentives'
+The next step: 
+incentives
+Encountered 'prototypically'
+The next step: 
+prototypically
+Encountered 'honorably'
+The next step: 
+honorably
+Encountered 'categorizing'
+The next step: 
+categorizing
+Encountered 'conspicuous'
+The next step: 
+conspicuous
+Encountered 'sloping'
+The next step: 
+sloping
+Encountered 'archaicness'
+The next step: 
+archaicness
+Encountered 'queued'
+The next step: 
+queued
+Encountered 'recline'
+The next step: 
+recline
+Encountered 'postorder'
+The next step: 
+postorder
+Encountered 'octahedra'
+The next step: 
+octahedra
+Encountered 'throttled'
+The next step: 
+throttled
+Encountered 'cracks'
+The next step: 
+cracks
+Encountered 'sods'
+The next step: 
+sods
+Encountered 'credible'
+The next step: 
+credible
+Encountered 'nocturnally'
+The next step: 
+nocturnally
+Encountered 'cows'
+The next step: 
+cows
+Encountered 'drowning'
+The next step: 
+drowning
+Encountered 'watchman'
+The next step: 
+watchman
+Encountered 'persecuting'
+The next step: 
+persecuting
+Encountered 'paternally'
+The next step: 
+paternally
+Encountered 'diffusion'
+The next step: 
+diffusion
+Encountered 'donating'
+The next step: 
+donating
+Encountered 'truncations'
+The next step: 
+truncations
+Encountered 'victorious'
+The next step: 
+victorious
+Encountered 'unneeded'
+The next step: 
+unneeded
+Encountered 'reiteration'
+The next step: 
+reiteration
+Encountered 'ranted'
+The next step: 
+ranted
+Encountered 'shoes'
+The next step: 
+shoes
+Encountered 'reconnects'
+The next step: 
+reconnects
+Encountered 'improvisations'
+The next step: 
+improvisations
+Encountered 'widen'
+The next step: 
+widen
+Encountered 'intricate'
+The next step: 
+intricate
+Encountered 'outposts'
+The next step: 
+outposts
+Encountered 'dead'
+The next step: 
+dead
+Encountered 'occlusion'
+The next step: 
+occlusion
+Encountered 'phenomena'
+The next step: 
+phenomena
+Encountered 'juxtaposes'
+The next step: 
+juxtaposes
+Encountered 'paling'
+The next step: 
+paling
+Encountered 'elaborate'
+The next step: 
+elaborate
+Encountered 'overloads'
+The next step: 
+overloads
+Encountered 'moans'
+The next step: 
+moans
+Encountered 'deliver'
+The next step: 
+deliver
+Encountered 'reflexiveness'
+The next step: 
+reflexiveness
+Encountered 'entangle'
+The next step: 
+entangle
+Encountered 'dirty'
+The next step: 
+dirty
+Encountered 'childlike'
+The next step: 
+childlike
+Encountered 'stile'
+The next step: 
+stile
+Encountered 'imps'
+The next step: 
+imps
+Encountered 'intransitive'
+The next step: 
+intransitive
+Encountered 'disastrously'
+The next step: 
+disastrously
+Encountered 'relays'
+The next step: 
+relays
+Encountered 'homogeneity'
+The next step: 
+homogeneity
+Encountered 'horrible'
+The next step: 
+horrible
+Encountered 'laureate'
+The next step: 
+laureate
+Encountered 'unfettered'
+The next step: 
+unfettered
+Encountered 'subroutine'
+The next step: 
+subroutine
+Encountered 'applauding'
+The next step: 
+applauding
+Encountered 'tightenings'
+The next step: 
+tightenings
+Encountered 'dots'
+The next step: 
+dots
+Encountered 'precincts'
+The next step: 
+precincts
+Encountered 'deserts'
+The next step: 
+deserts
+Encountered 'party'
+The next step: 
+party
+Encountered 'reliving'
+The next step: 
+reliving
+Encountered 'scams'
+The next step: 
+scams
+Encountered 'referential'
+The next step: 
+referential
+Encountered 'kidnapping'
+The next step: 
+kidnapping
+Encountered 'requisitions'
+The next step: 
+requisitions
+Encountered 'jaundice'
+The next step: 
+jaundice
+Encountered 'reestablishing'
+The next step: 
+reestablishing
+Encountered 'residence'
+The next step: 
+residence
+Encountered 'succeeds'
+The next step: 
+succeeds
+Encountered 'advisory'
+The next step: 
+advisory
+Encountered 'army'
+The next step: 
+army
+Encountered 'aspirators'
+The next step: 
+aspirators
+Encountered 'nests'
+The next step: 
+nests
+Encountered 'vassal'
+The next step: 
+vassal
+Encountered 'leafiest'
+The next step: 
+leafiest
+Encountered 'blaze'
+The next step: 
+blaze
+Encountered 'locksmith'
+The next step: 
+locksmith
+Encountered 'soothed'
+The next step: 
+soothed
+Encountered 'celery'
+The next step: 
+celery
+Encountered 'courted'
+The next step: 
+courted
+Encountered 'carcinoma'
+The next step: 
+carcinoma
+Encountered 'gaming'
+The next step: 
+gaming
+Encountered 'celebrity'
+The next step: 
+celebrity
+Encountered 'fondles'
+The next step: 
+fondles
+Encountered 'derailed'
+The next step: 
+derailed
+Encountered 'spouted'
+The next step: 
+spouted
+Encountered 'quay'
+The next step: 
+quay
+Encountered 'sayings'
+The next step: 
+sayings
+Encountered 'shams'
+The next step: 
+shams
+Encountered 'floater'
+The next step: 
+floater
+Encountered 'typewriter'
+The next step: 
+typewriter
+Encountered 'erroneously'
+The next step: 
+erroneously
+Encountered 'centralism'
+The next step: 
+centralism
+Encountered 'rabbi'
+The next step: 
+rabbi
+Encountered 'beak'
+The next step: 
+beak
+Encountered 'romancer'
+The next step: 
+romancer
+Encountered 'recast'
+The next step: 
+recast
+Encountered 'discharge'
+The next step: 
+discharge
+Encountered 'receipt'
+The next step: 
+receipt
+Encountered 'psychotherapeutic'
+The next step: 
+psychotherapeutic
+Encountered 'grower'
+The next step: 
+grower
+Encountered 'precluding'
+The next step: 
+precluding
+Encountered 'bloodiest'
+The next step: 
+bloodiest
+Encountered 'whine'
+The next step: 
+whine
+Encountered 'syndication'
+The next step: 
+syndication
+Encountered 'immediacies'
+The next step: 
+immediacies
+Encountered 'fragile'
+The next step: 
+fragile
+Encountered 'itself'
+The next step: 
+itself
+Encountered 'shredding'
+The next step: 
+shredding
+Encountered 'bikini'
+The next step: 
+bikini
+Encountered 'batters'
+The next step: 
+batters
+Encountered 'afford'
+The next step: 
+afford
+Encountered 'antelope'
+The next step: 
+antelope
+Encountered 'barb'
+The next step: 
+barb
+Encountered 'beaming'
+The next step: 
+beaming
+Encountered 'maritime'
+The next step: 
+maritime
+Encountered 'realize'
+The next step: 
+realize
+Encountered 'editing'
+The next step: 
+editing
+Encountered 'treatises'
+The next step: 
+treatises
+Encountered 'rifled'
+The next step: 
+rifled
+Encountered 'naughtier'
+The next step: 
+naughtier
+Encountered 'dwells'
+The next step: 
+dwells
+Encountered 'cancel'
+The next step: 
+cancel
+Encountered 'astringency'
+The next step: 
+astringency
+Encountered 'encasement'
+The next step: 
+encasement
+Encountered 'dwindled'
+The next step: 
+dwindled
+Encountered 'premature'
+The next step: 
+premature
+Encountered 'troublesomely'
+The next step: 
+troublesomely
+Encountered 'summaries'
+The next step: 
+summaries
+Encountered 'sidelights'
+The next step: 
+sidelights
+Encountered 'relinquishes'
+The next step: 
+relinquishes
+Encountered 'steamships'
+The next step: 
+steamships
+Encountered 'unrolls'
+The next step: 
+unrolls
+Encountered 'arbitrating'
+The next step: 
+arbitrating
+Encountered 'relocates'
+The next step: 
+relocates
+Encountered 'shadows'
+The next step: 
+shadows
+Encountered 'reputed'
+The next step: 
+reputed
+Encountered 'irretrievably'
+The next step: 
+irretrievably
+Encountered 'grassed'
+The next step: 
+grassed
+Encountered 'metaphysically'
+The next step: 
+metaphysically
+Encountered 'thoughtlessly'
+The next step: 
+thoughtlessly
+Encountered 'showcase'
+The next step: 
+showcase
+Encountered 'menu'
+The next step: 
+menu
+Encountered 'critiques'
+The next step: 
+critiques
+Encountered 'vetoer'
+The next step: 
+vetoer
+Encountered 'anecdote'
+The next step: 
+anecdote
+Encountered 'eyelid'
+The next step: 
+eyelid
+Encountered 'axiomatically'
+The next step: 
+axiomatically
+Encountered 'speculation'
+The next step: 
+speculation
+Encountered 'retribution'
+The next step: 
+retribution
+Encountered 'lacquer'
+The next step: 
+lacquer
+Encountered 'flap'
+The next step: 
+flap
+Encountered 'fattens'
+The next step: 
+fattens
+Encountered 'pleasantness'
+The next step: 
+pleasantness
+Encountered 'denunciation'
+The next step: 
+denunciation
+Encountered 'orchard'
+The next step: 
+orchard
+Encountered 'fueling'
+The next step: 
+fueling
+Encountered 'articulately'
+The next step: 
+articulately
+Encountered 'unmanageably'
+The next step: 
+unmanageably
+Encountered 'sculpts'
+The next step: 
+sculpts
+Encountered 'clearer'
+The next step: 
+clearer
+Encountered 'pimple'
+The next step: 
+pimple
+Encountered 'coded'
+The next step: 
+coded
+Encountered 'harrowing'
+The next step: 
+harrowing
+Encountered 'keyboard'
+The next step: 
+keyboard
+Encountered 'matrimonial'
+The next step: 
+matrimonial
+Encountered 'utilize'
+The next step: 
+utilize
+Encountered 'equilibria'
+The next step: 
+equilibria
+Encountered 'twinkler'
+The next step: 
+twinkler
+Encountered 'departed'
+The next step: 
+departed
+Encountered 'magnolia'
+The next step: 
+magnolia
+Encountered 'trustee'
+The next step: 
+trustee
+Encountered 'dresser'
+The next step: 
+dresser
+Encountered 'multilayer'
+The next step: 
+multilayer
+Encountered 'scouring'
+The next step: 
+scouring
+Encountered 'approachable'
+The next step: 
+approachable
+Encountered 'cowers'
+The next step: 
+cowers
+Encountered 'balding'
+The next step: 
+balding
+Encountered 'wallets'
+The next step: 
+wallets
+Encountered 'bracing'
+The next step: 
+bracing
+Encountered 'insisted'
+The next step: 
+insisted
+Encountered 'appendicitis'
+The next step: 
+appendicitis
+Encountered 'normalizing'
+The next step: 
+normalizing
+Encountered 'zipper'
+The next step: 
+zipper
+Encountered 'music'
+The next step: 
+music
+Encountered 'humming'
+The next step: 
+humming
+Encountered 'devastation'
+The next step: 
+devastation
+Encountered 'feebler'
+The next step: 
+feebler
+Encountered 'hems'
+The next step: 
+hems
+Encountered 'reads'
+The next step: 
+reads
+Encountered 'disengage'
+The next step: 
+disengage
+Encountered 'comprehension'
+The next step: 
+comprehension
+Encountered 'alarm'
+The next step: 
+alarm
+Encountered 'expenditure'
+The next step: 
+expenditure
+Encountered 'waist'
+The next step: 
+waist
+Encountered 'prohibitively'
+The next step: 
+prohibitively
+Encountered 'disjunctively'
+The next step: 
+disjunctively
+Encountered 'outdoors'
+The next step: 
+outdoors
+Encountered 'sticking'
+The next step: 
+sticking
+Encountered 'seating'
+The next step: 
+seating
+Encountered 'grabbings'
+The next step: 
+grabbings
+Encountered 'revisions'
+The next step: 
+revisions
+Encountered 'leafy'
+The next step: 
+leafy
+Encountered 'chowder'
+The next step: 
+chowder
+Encountered 'perhaps'
+The next step: 
+perhaps
+Encountered 'buoy'
+The next step: 
+buoy
+Encountered 'airborne'
+The next step: 
+airborne
+Encountered 'connectors'
+The next step: 
+connectors
+Encountered 'swap'
+The next step: 
+swap
+Encountered 'ribbed'
+The next step: 
+ribbed
+Encountered 'rhythms'
+The next step: 
+rhythms
+Encountered 'wrecked'
+The next step: 
+wrecked
+Encountered 'tuners'
+The next step: 
+tuners
+Encountered 'beautifications'
+The next step: 
+beautifications
+Encountered 'negligence'
+The next step: 
+negligence
+Encountered 'giggled'
+The next step: 
+giggled
+Encountered 'unrestrictive'
+The next step: 
+unrestrictive
+Encountered 'chaired'
+The next step: 
+chaired
+Encountered 'negatively'
+The next step: 
+negatively
+Encountered 'oppositely'
+The next step: 
+oppositely
+Encountered 'winding'
+The next step: 
+winding
+Encountered 'retransmitting'
+The next step: 
+retransmitting
+Encountered 'streams'
+The next step: 
+streams
+Encountered 'lighting'
+The next step: 
+lighting
+Encountered 'brighten'
+The next step: 
+brighten
+Encountered 'timetable'
+The next step: 
+timetable
+Encountered 'acyclically'
+The next step: 
+acyclically
+Encountered 'relating'
+The next step: 
+relating
+Encountered 'laceration'
+The next step: 
+laceration
+Encountered 'repositories'
+The next step: 
+repositories
+Encountered 'hummer'
+The next step: 
+hummer
+Encountered 'orientations'
+The next step: 
+orientations
+Encountered 'fireboat'
+The next step: 
+fireboat
+Encountered 'garters'
+The next step: 
+garters
+Encountered 'decreasingly'
+The next step: 
+decreasingly
+Encountered 'conductor'
+The next step: 
+conductor
+Encountered 'crate'
+The next step: 
+crate
+Encountered 'swinger'
+The next step: 
+swinger
+Encountered 'repaid'
+The next step: 
+repaid
+Encountered 'goose'
+The next step: 
+goose
+Encountered 'outright'
+The next step: 
+outright
+Encountered 'sculptor'
+The next step: 
+sculptor
+Encountered 'scissor'
+The next step: 
+scissor
+Encountered 'faltered'
+The next step: 
+faltered
+Encountered 'encumbers'
+The next step: 
+encumbers
+Encountered 'close'
+The next step: 
+close
+Encountered 'natures'
+The next step: 
+natures
+Encountered 'approvals'
+The next step: 
+approvals
+Encountered 'square'
+The next step: 
+square
+Encountered 'reactivated'
+The next step: 
+reactivated
+Encountered 'drill'
+The next step: 
+drill
+Encountered 'tells'
+The next step: 
+tells
+Encountered 'exemplifiers'
+The next step: 
+exemplifiers
+Traceback (most recent call last):
+  File "exploit2.py", line 7, in <module>
+    data = r.recv()#r.recvuntil("Encountered ")
+  File "/home/bachng/.local/lib/python2.7/site-packages/pwnlib/tubes/tube.py", line 79, in recv
+    return self._recv(numb, timeout) or ''
+  File "/home/bachng/.local/lib/python2.7/site-packages/pwnlib/tubes/tube.py", line 157, in _recv
+    if not self.buffer and not self._fillbuffer(timeout):
+  File "/home/bachng/.local/lib/python2.7/site-packages/pwnlib/tubes/tube.py", line 127, in _fillbuffer
+    data = self.recv_raw(self.buffer.get_fill_size())
+  File "/home/bachng/.local/lib/python2.7/site-packages/pwnlib/tubes/sock.py", line 55, in recv_raw
+    raise EOFError
+EOFError
+[*] Closed connection to p1.tjctf.org port 8009

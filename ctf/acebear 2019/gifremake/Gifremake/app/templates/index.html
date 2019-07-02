@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gifremake</title>
+</head>
+<body style="background-color: black;width: 100%;display: block;color: gold;font-size: 22px;text-align: center;">
+<h1>Try gifremake program</h1>
+<div style="width: 500px;display: inline-block;">
+<img src="{{ url_for('static', filename='img/hacker.jpg') }}" style="width: 369px;">
+<form action="/upload" method="post" enctype="multipart/form-data">
+    Now. Please select 2 images to upload:<hr>
+    <span>Gif file: </span><input type="file" accept="image/gif" name="gif_file" id=""><br><br>
+    <span>Args file: </span><input type="file" accept="text/plain" name="args_file" id=""><br><br>
+    <input type="submit" value="Gifremake" name="submit">
+</form>
+</div>
+
+</body></html>

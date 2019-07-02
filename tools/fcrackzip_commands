@@ -1,0 +1,2 @@
+fcrackzip -v -D -u -p rockyou.txt superSecure.zip
+fcrackzip -v -l 4-8 -u ./superSecure.zip
